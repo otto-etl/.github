@@ -1,6 +1,10 @@
+![otto-logo](https://github.com/otto-etl/.github/assets/1952835/470f2618-2f56-4ef8-82f1-ac58fe426189)
+
 # Overview
 
 Otto is an open-source, web-based, automated ETL workflow manager that orchestrates the gathering, transforming, and loading of data at scheduled intervals. Otto emphasizes ease of use for JavaScript developers and clear observability into their data processing: errors or bottlenecks their workflow is running into, why they happened, and the details they need to fix them.
+
+
 
 <!--
 
