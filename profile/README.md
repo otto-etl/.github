@@ -1,4 +1,8 @@
-![otto-logo](https://github.com/otto-etl/.github/assets/1952835/470f2618-2f56-4ef8-82f1-ac58fe426189)
+
+<p align="center">
+  <img width="620" alt="otto-logo-long2" src="https://github.com/otto-etl/.github/assets/1952835/42c87d47-124d-4f5c-b91c-41b3b21f041b">
+</p>
+
 
 # Overview
 
